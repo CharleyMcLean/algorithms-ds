@@ -3,7 +3,6 @@
 ##Contents
 * [Tech Stack](#technologies)
 * [Features](#features)
-* [Installation](#install)
 
 
 ## <a name="technologies"></a>Technologies
